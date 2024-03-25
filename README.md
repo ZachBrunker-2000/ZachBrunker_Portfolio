@@ -1,8 +1,8 @@
 # ZachBrunker_Portfolio
 Hello, my name is Zachary Brunker. I have about 4 years of programming experience. I am currently finishing my Associates Degree in Software Development through Ivy Tech Community College. I have earned the Computer Science Fundamentals Certification. I will have a Techincal Software Development certification and an associates degree in software development by the end of summer 2024.
 Programming Languages/Software I have experience in:
-    -C++
-    -C#
+    \n-C++
+    \n-C#
     -Python
     -HTML
     -CSS
