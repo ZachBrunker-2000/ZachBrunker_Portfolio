@@ -1,6 +1,6 @@
 # Zachary Brunker - Portfolio
 
-Welcome to my portfolio! I'm a software developer with 4+ years of programming experience, currently pursuing my Associate's Degree in Software Development at Ivy Tech Community College.
+Welcome to my portfolio! I'm a software developer with 4+ years of non-professional programming experience, currently pursuing my Associate's Degree in Software Development at Ivy Tech Community College.
 
 ## 🛠️ Technical Skills
 
@@ -55,3 +55,4 @@ Welcome to my portfolio! I'm a software developer with 4+ years of programming e
 ## 📫 Get in Touch
 
 Feel free to explore my projects and reach out if you'd like to collaborate!
+
